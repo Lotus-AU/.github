@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="400" src="https://raw.githubusercontent.com/music-discussion/LotusContinued/5b3006b2c6f13c7189b188485f3c4e7eab315d07/Images/lotus_image2.png">
+  <img width="400" height="400" src="https://avatars.githubusercontent.com/u/173427715">
 </p>
 
 <h1 align="right">
